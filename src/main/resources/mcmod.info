@@ -1,0 +1,16 @@
+[
+	{
+		"modid": "undergroundtraps",
+		"name": "Underground Traps",
+		"description": "Small Minecraft mod that adds Terraria-inspired booby traps to the underground.",
+		"version": "${version}",
+		"mcversion": "1.12.2",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["DiamondWalker"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
